@@ -1,0 +1,18 @@
+{
+  "name": "quiz-systems",
+  "version": "1.0.0",
+  "description": "The app will show some muliple choice Questions and promt the user to reply and in the end it will show the students result of the Quiz",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aliyan khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
